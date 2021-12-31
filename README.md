@@ -13,7 +13,7 @@ In its current form the script will:
 cron or the Windows Taks Scheduler could be used to run the script on a recurring basis.
 
 TODO:
-  * __New__ Automatic addition of the 1st block of data is working. Make it work for all other blocks
+  * __New:__ Automatic addition of the 1st block of data only is working. Make it work for all other blocks.
   * Add an alternative method to remotely notify the user, such as email, about the current status 
   * When running locally, display status more convieniently such as a notification
   * ~~Convert the script for it to be run as an Azure function~~
